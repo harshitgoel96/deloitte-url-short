@@ -1,0 +1,6 @@
+com.harshit.delloiteUrlShortener
+com.harshit.delloiteUrlShortener.controller
+com.harshit.delloiteUrlShortener.model
+com.harshit.delloiteUrlShortener.repo
+com.harshit.delloiteUrlShortener.service
+com.harshit.delloiteUrlShortener.service.impl

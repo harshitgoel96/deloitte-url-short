@@ -1,0 +1,1 @@
+create table UrlDetail(id BIGINT auto_increment  PRIMARY KEY, originalUrl CLOB , shortenUrl varchar(10) unique, timeOfExpiry TIMESTAMP);
